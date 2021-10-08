@@ -9,7 +9,7 @@
 ### 參與人員 & 特別感謝
 - Zizheng ([Twitter](https://twitter.com/zizheng_w), [Github](https://github.com/zizhengw) and [Homepage](https://zizhengw.github.io/))
 - Eno ([Twitter](https://twitter.com/enokoneko))
-- Toto_minai ([Github](https://github.com/toto-minai) and [Homepage](https://chunghwa.asia/))
+- Toto ([Github](https://github.com/toto-minai) and [Homepage](https://chunghwa.asia/))
 
 ### License
 [共享創意 署名 4.0 國際（CC BY 4.0）](https://creativecommons.org/licenses/by/4.0/deed.zh_TW)
