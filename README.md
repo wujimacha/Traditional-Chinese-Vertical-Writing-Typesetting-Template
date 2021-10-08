@@ -2,7 +2,7 @@
 
 # 繁體中文縱書排版模板
 
-進度跟進點請至 [Issues](https://github.com/wujimacha/Traditional-Chinese-Vertical-Writing-Typesetting-Template/issues) 頁面查看。
+進度跟進請至 [Issues](https://github.com/wujimacha/Traditional-Chinese-Vertical-Writing-Typesetting-Template/issues) 頁面查看。
 
 若有任何改進建議，設計意見和反饋，請至 [Discussions](https://github.com/wujimacha/Traditional-Chinese-Vertical-Writing-Typesetting-Template/discussions) 頁面發佈。
 
