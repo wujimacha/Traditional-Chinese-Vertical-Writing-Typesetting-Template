@@ -1,6 +1,6 @@
 即將發佈，敬請期待。
 
-# 「縱書卷軸」排版模板
+# 「縱書卷軸」模板
 
 進度跟進請至 [Issues](https://github.com/wujimacha/Traditional-Chinese-Vertical-Writing-Typesetting-Template/issues) 頁面查看。
 
