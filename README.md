@@ -1,6 +1,6 @@
 # 「縱書卷軸」模板
 
-### 最新版本下载：[「縱書卷軸」模板 0.1]()
+### 最新版本下载：[最新發佈](https://github.com/wujimacha/Traditional-Chinese-Vertical-Writing-Typesetting-Template/releases)
 
 該模板由 WūJīMāChā Essay+ 編輯組設計並用於其同名中文版雜誌的製作。我們現將此模板開源，以期待更多中文作品能夠以「豎排」形式面向大衆。
 此模板遵循共享創意署名 4.0 國際版權協議（CC BY 4.0）。這意味着你可以在給予適當署名等條件的前提下，自由分享和修改此文件——甚至將其用於商業用途。更多規則請見[此處](https://creativecommons.org/licenses/by/4.0/deed.zh_TW)。
