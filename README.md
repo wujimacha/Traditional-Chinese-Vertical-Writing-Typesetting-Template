@@ -1,4 +1,4 @@
-# 「縱書卷軸」模板（適用於 Adobe InDesign CS4 及以上）
+# 「縱書卷軸」模板（適用於 Adobe InDesign CS4 或更新版本）
 
 ### 最新版本下载：[最新發佈](https://github.com/wujimacha/Traditional-Chinese-Vertical-Writing-Typesetting-Template/releases)
 
