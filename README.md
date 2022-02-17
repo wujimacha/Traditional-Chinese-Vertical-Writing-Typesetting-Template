@@ -1,5 +1,8 @@
 # 「縱書卷軸」模板（適用於 Adobe InDesign CS4 或更新版本）
 
+<img width="821" alt="模板 github 預覽圖片" src="https://user-images.githubusercontent.com/46472238/154458130-036b876e-6abe-497d-b96a-5d62e22fbc9e.png">
+
+
 ### 最新版本下载：[最新發佈](https://github.com/wujimacha/Traditional-Chinese-Vertical-Writing-Typesetting-Template/releases)
 
 該模板由 [WūJīMāChā Essay+](https://www.wujimacha.com/essay-plus-tc) 編輯組設計並用於其同名中文版雜誌的製作。我們現將此模板開源，以期待更多中文作品能夠以「豎排」形式面向大衆。
