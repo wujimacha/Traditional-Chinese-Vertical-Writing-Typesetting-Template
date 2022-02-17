@@ -17,9 +17,9 @@
 - 中文字體使用的是[思源黑體](https://github.com/adobe-fonts/source-han-serif/raw/release/download-guide-source-han.pdf)。我們採用的是思源黑體、繁體中文、Normal 字重。
 - 英文字體爲 [Aleo](https://fonts.google.com/specimen/Aleo)。
 
-### 進度
+### 進度 & 未來計劃
 
-進度跟進請至 [Issues](https://github.com/wujimacha/Traditional-Chinese-Vertical-Writing-Typesetting-Template/issues) 頁面查看。
+進度跟進 & 未來計劃請至 [Issues](https://github.com/wujimacha/Traditional-Chinese-Vertical-Writing-Typesetting-Template/issues) 頁面查看。
 
 ### 參與人員 & 特別感謝
 - Zizheng ([Twitter](https://twitter.com/zizheng_w), [Github](https://github.com/zizhengw) and [Homepage](https://zizhengw.github.io/))
