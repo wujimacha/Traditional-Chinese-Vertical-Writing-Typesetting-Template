@@ -13,6 +13,10 @@
 
 另，更多關於排版的誕生過程，請[轉至此處](https://www.wujimacha.com/pub/22e02)。
 
+### 字體
+中文字體使用的是[思源黑體](https://github.com/adobe-fonts/source-han-serif/raw/release/download-guide-source-han.pdf)。我們採用的是思源黑體、繁體中文、Normal 字重。
+英文字體爲 [Aleo](https://fonts.google.com/specimen/Aleo)。
+
 ### 進度
 
 進度跟進請至 [Issues](https://github.com/wujimacha/Traditional-Chinese-Vertical-Writing-Typesetting-Template/issues) 頁面查看。
