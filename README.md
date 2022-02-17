@@ -14,8 +14,8 @@
 另，更多關於排版的誕生過程，請[轉至此處](https://www.wujimacha.com/pub/22e02)。
 
 ### 字體
-中文字體使用的是[思源黑體](https://github.com/adobe-fonts/source-han-serif/raw/release/download-guide-source-han.pdf)。我們採用的是思源黑體、繁體中文、Normal 字重。
-英文字體爲 [Aleo](https://fonts.google.com/specimen/Aleo)。
+- 中文字體使用的是[思源黑體](https://github.com/adobe-fonts/source-han-serif/raw/release/download-guide-source-han.pdf)。我們採用的是思源黑體、繁體中文、Normal 字重。
+- 英文字體爲 [Aleo](https://fonts.google.com/specimen/Aleo)。
 
 ### 進度
 
@@ -25,6 +25,9 @@
 - Zizheng ([Twitter](https://twitter.com/zizheng_w), [Github](https://github.com/zizhengw) and [Homepage](https://zizhengw.github.io/))
 - Eno ([Twitter](https://twitter.com/enokoneko))
 - Toto ([Github](https://github.com/toto-minai) and [Homepage](https://chunghwa.asia/))
+
+### 捐助
+如果你喜歡讀到的內容，並認同我們的做事風格，請您考慮[通過捐助](https://opencollective.com/wujimacha)幫助我們得以良性運轉。
 
 ### License
 [共享創意 署名 4.0 國際（CC BY 4.0）](https://creativecommons.org/licenses/by/4.0/deed.zh_TW)
