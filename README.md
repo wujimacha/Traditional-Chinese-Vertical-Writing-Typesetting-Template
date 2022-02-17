@@ -26,7 +26,7 @@
 
 ### 參與人員 & 特別感謝
 - Zizheng ([Twitter](https://twitter.com/zizheng_w), [Github](https://github.com/zizhengw) and [Homepage](https://zizhengw.github.io/))
-- Eno ([Twitter](https://twitter.com/enokoneko))
+- eno ([Twitter](https://twitter.com/enokoneko))
 - Toto ([Github](https://github.com/toto-minai) and [Homepage](https://chunghwa.asia/))
 
 ### 捐助
