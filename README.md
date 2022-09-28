@@ -31,7 +31,7 @@
 
 ### 字體使用許可
 
-- 中文字體使用[思源黑體](https://github.com/adobe-fonts/source-han-serif/raw/release/download-guide-source-han.pdf)、[源石黑體]()和[教育部標準楷書]()。
+- 中文字體使用[思源黑體](https://github.com/adobe-fonts/source-han-serif/raw/release/download-guide-source-han.pdf)、[源石黑體](https://github.com/ButTaiwan/genseki-font)和[教育部標準楷書](https://language.moe.gov.tw/result.aspx?classify_sn=23&subclassify_sn=436&content_sn=47)。
 - 英文字體爲 [Aleo](https://fonts.google.com/specimen/Aleo)。
 
 ### 進度 & 未來計劃
